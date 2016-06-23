@@ -1,0 +1,20 @@
+{
+  "name": "Chicken Dinner",
+  "version": "0.0.0",
+  "description": "Winner winner",
+  "main": "server.js",
+  "author": {
+    "name": "broady",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "~4.9.x",
+    "twit": "^1.1.18",
+    "underscore": "^1.8.3",
+    "underscore.deferred": "^0.4.0",
+    "markov": "0.0.7"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
