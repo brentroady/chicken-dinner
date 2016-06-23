@@ -1,5 +1,5 @@
 {
-  "name": "Chicken Dinner",
+  "name": "chicken-dinner",
   "version": "0.0.0",
   "description": "Winner winner",
   "main": "server.js",
